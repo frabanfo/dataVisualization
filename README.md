@@ -24,7 +24,7 @@ classes are populated, when athletes peak and whether making all nine attempts h
 In IPF Raw meets (2014–2023), win rate falls steadily from 45.2% for 9/9 lifters to 35.0% for 4/9.
 The spikes at 3/9 and 2/9 rest on very few winners (572 and 28) and are not reliable.
 
-More charts in [`viz/`](viz/): performance over time by weight class, weight class comparison,
+More charts in [`viz/`](viz/): performance over time by weight class, weight class comparison, bodyweight distributions,
 age vs performance, regional growth and most-missed attempts.
 
 ## Data preparation
