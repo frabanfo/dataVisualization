@@ -8,7 +8,7 @@ classes are populated, when athletes peak and whether making all nine attempts h
 
 1. **Gender composition over time**: how has the share of women in competitive powerlifting changed?
 2. **Weight classes**: how do men's and women's bodyweight distributions compare with the IPF
-   classes, and is there a case for more women's upper classes?
+   weight classes?
 3. **Performance over time**: how have the best and median totals per weight class evolved
    in IPF Raw competitions (2010–2023)?
 4. **Age and performance**: at what age do lifters peak?
@@ -18,11 +18,6 @@ classes are populated, when athletes peak and whether making all nine attempts h
    [Powerlifting in Data](https://powerliftingindata.com/posts/2024/11/03/lifters-going-9-for-9-are-more-likely-to-win.html))
 
 ## Highlights
-
-![Bodyweight distribution by sex](viz/viz3_bodyweight_distribution.png)
-
-The women's distribution has a long tail above the 84 kg+ threshold, so a single open class
-groups very different athletes: the data supports adding upper weight classes for women.
 
 ![Win rate by successful attempts](viz/viz7_win_rate_by_attempts.png)
 
